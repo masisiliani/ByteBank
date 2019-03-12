@@ -1,0 +1,7 @@
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\msilva\Projetos\git-msisiliani\Alura\ASPNET-MVC5\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
